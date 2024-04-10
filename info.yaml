@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        "QIF"      # Project title
-  author:       "David PArent"      # Your name
+  title:        "8 Bit Digital QIF"      # Project title
+  author:       "David Parent"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "QIF"      # One line description of what your project does
+  description:  "The circuit will spike when the input is positive.  It will reset when the signal exceeds a predetermined value"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
